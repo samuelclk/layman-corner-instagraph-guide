@@ -14,7 +14,7 @@ To access Instagraph on your laptop, open up your browser and type:
 
 If you found this helpful, share this guide with your friends and go wild together!
 
-Follow me on [X (Twitter)](https://twitter.com/stakesaurus) or leave your email below for more Layman-friendly guides on geeky tools to make your life easier.
+Follow me on [X (Twitter)](https://twitter.com/stakesaurus), [Linkedin](https://www.linkedin.com/in/samuelclk/), or leave your email below for more Layman-friendly guides on geeky tools to make your life easier.
 
 {% @mailchimp/mailchimpSubscribe cta="Get the latest layman-friendly guides here!" %}
 
