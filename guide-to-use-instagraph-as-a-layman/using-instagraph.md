@@ -12,7 +12,15 @@ To access Instagraph on your laptop, open up your browser and type:
 
 ### Have fun!
 
-If you found this helpful, share this guide with your friends and go wild together!
+If your browser loads a page like the above, you are all set - Go crazy with your questions and share this guide with your friends!
+
+### Pro-tip
+
+Once you are done using Instagraph for the day, you can head back to your Google Cloud Console and "Stop" your VM to pause the billing. _**Stretch that $300 credits!**_
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+### Follow for more
 
 Follow me on [X (Twitter)](https://twitter.com/stakesaurus), [Linkedin](https://www.linkedin.com/in/samuelclk/), or leave your email below for more Layman-friendly guides on geeky tools to make your life easier.
 

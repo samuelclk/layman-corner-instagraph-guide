@@ -1,6 +1,6 @@
 # Spinning up a Linux VM
 
-The quickest way to deploy your own instance of Instagraph is to rent a low-cost Linux machine on the cloud, especially if your laptop runs on windows (ugh). Google Cloud gives you free $300 credits so you can even run Instagraph for 10 months straight for free.
+The quickest way to deploy your own instance of Instagraph is to rent a low-cost Linux machine on the cloud, especially if your laptop runs on windows (ugh). Google Cloud gives you free $300 credits so you can even run Instagraph for 12 months straight for free.
 
 First, head over to [Google Cloud](https://cloud.google.com/) and sign up for a new account to get the $300 free credits. Once you have signed up and logged in, go to your Console and click on "Create a VM".
 
