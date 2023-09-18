@@ -78,7 +78,7 @@ mv .env.example .env
 nano .env
 ```
 
-Add your OpenAI API key to the .env file. Replace `<your-api-key>` with your actual OpenAI API key. Jump back to this previous section if you have not generated this key.
+Add your OpenAI API key to the .env file. Replace `<your-api-key>` with your actual OpenAI API key. Jump back to this [previous section](generating-your-openai-api-key.md) if you have not generated this key.
 
 ```
 OPENAI_API_KEY=<your-api-key>
