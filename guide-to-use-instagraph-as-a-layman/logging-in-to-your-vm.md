@@ -26,6 +26,10 @@ cat .ssh/id_ecdsa.pub
 
 Copy the entire output string by highlighting the string text pressing `CTRL+SHIFT+C` on windows and `CMD+C` on Mac.
 
+{% hint style="info" %}
+When copying from or pasting to your terminal, you need to use CTRL+SHIFT instead of just CTRL if you are on Windows. Mac users can stick with just CMD
+{% endhint %}
+
 Go back to your Google Cloud Console and click on the name of your newly created instance.
 
 &#x20;

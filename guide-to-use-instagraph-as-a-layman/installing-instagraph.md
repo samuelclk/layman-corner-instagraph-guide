@@ -10,7 +10,7 @@ sudo apt install python3-pip
 pip install virtualenv
 ```
 
-Click through any prompts that may appear on your terminal.
+Select `"Ok"/"Yes"` in general while going through any prompts that may appear on your terminal. Use your `Arrows` and `TAB` keys to navigate the terminal UI.
 
 ### Create a Python virtual environment
 
@@ -28,13 +28,19 @@ export PATH="$HOME/.local/bin:$PATH"
 
 Save and exit with `CTRL+O, ENTER, CTRL+X`.&#x20;
 
-3\) Create the virtual environment.
+3\) Update the new shell settings.
+
+```sh
+source ~/.bashrc
+```
+
+4\) Create the virtual environment.
 
 ```sh
 virtualenv venv
 ```
 
-4\) Activate the virtual environment
+5\) Activate the virtual environment
 
 ```sh
 source venv/bin/activate
