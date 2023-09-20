@@ -81,7 +81,7 @@ You can now close the in-browser terminal.
 Now, go back to your laptop's terminal and run the following to access your VM using SSH tunneling.
 
 ```sh
-ssh -L 8080:127.0.0.1:8080 <username>@35.184.131.186 -i .ssh\id_ed25519_instagraph -v
+ssh -L 8080:127.0.0.1:8080 <username>@35.184.131.186 -i .ssh\id_ecdsa -v
 ```
 
 **Where:** `<username>` refers to the first part of the email you used to sign up for your Google Cloud account - **e.g. everything before the `@` in "xxx@gmail.com"**&#x20;
