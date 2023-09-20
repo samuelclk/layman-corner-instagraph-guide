@@ -44,9 +44,7 @@ Scroll down to the "SSH keys" section, click on "Add item", and paste the public
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Next, note down the "External IP address" of your VM under the "Network Interfaces" section. Copy it onto your notepad.
-
-&#x20;
+Next, note down the **"External IP address"** of your VM under the **"Network Interfaces"** section. Copy it onto your notepad.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,10 +79,10 @@ You can now close the in-browser terminal.
 Now, go back to your laptop's terminal and run the following to access your VM using SSH tunneling.
 
 ```sh
-ssh -L 8080:127.0.0.1:8080 <username>@35.184.131.186 -i .ssh\id_ecdsa -v
+ssh -L 8080:127.0.0.1:8080 <username>@<external-ip-address> -i .ssh\id_ecdsa -v
 ```
 
-**Where:** `<username>` refers to the first part of the email you used to sign up for your Google Cloud account - **e.g. everything before the `@` in "xxx@gmail.com"**&#x20;
+**Where:** `<username>` refers to the first part of the email you used to sign up for your Google Cloud account - **e.g. everything before the `@` in "xxx@gmail.com" ;** `<external-ip-address>` is the **"External IP address"** of your VM under the **"Network Interfaces"** section.
 
 **Expected output:**
 
