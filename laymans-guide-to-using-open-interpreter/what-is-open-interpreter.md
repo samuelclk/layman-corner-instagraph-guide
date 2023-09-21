@@ -1,6 +1,6 @@
 # What is Open Interpreter?
 
-### **Creator:**&#x20;
+### **Creator**
 
 Open Interpreter is an open source project created by Killian Lucas who is _**building a universal interface between language models and computers.**_&#x20;
 
