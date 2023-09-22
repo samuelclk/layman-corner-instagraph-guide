@@ -13,7 +13,7 @@ Get early access to the desktop app below.
 
 ### What is it?
 
-Open Interpreter uses the OpenAI API to run code (e.g. Python, Javascript, shell, etc) directly on your computer based on your prompts.
+Open Interpreter uses the OpenAI API to run code (e.g. Python, Javascript, Shell, etc) directly on your computer based on your prompts.
 
 This basically unlocks a true personal AI butler (think JARVIS) for yourself because you are now able to control your computer by chatting with it using natural language.
 
@@ -23,10 +23,6 @@ This basically unlocks a true personal AI butler (think JARVIS) for yourself bec
 2. Access the internet via API calls and HTTP requests to complement (3)
 3. Plot, clean, and analyse large datasets
 4. Create and edit photos, videos, PDFs, etc
-
-{% hint style="info" %}
-Wait, doesn't Chatgpt premium already do this?&#x20;
-{% endhint %}
 
 **Wait, doesn't Chatgpt premium already do this?**&#x20;
 
