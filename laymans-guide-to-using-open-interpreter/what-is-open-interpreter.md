@@ -7,6 +7,10 @@ Open Interpreter is an open source project created by Killian Lucas who is _**bu
 1. **Github:** [https://github.com/KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
 2. **Twitter:** [https://twitter.com/hellokillian](https://twitter.com/hellokillian)
 
+Get early access to the desktop app below.
+
+{% embed url="https://openinterpreter.com/" %}
+
 ### What is it?
 
 Open Interpreter uses the OpenAI API to run code (e.g. Python, Javascript, shell, etc) directly on your computer based on your prompts.

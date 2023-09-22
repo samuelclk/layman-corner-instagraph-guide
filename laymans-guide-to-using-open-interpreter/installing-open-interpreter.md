@@ -49,6 +49,6 @@ interpreter
 
 **Step 3:** Enter your OpenAI API key when prompted
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it - super easy, barely an inconvenience.

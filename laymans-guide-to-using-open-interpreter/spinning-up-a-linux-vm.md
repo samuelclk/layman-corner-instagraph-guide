@@ -8,7 +8,7 @@ First, head over to [Google Cloud](https://cloud.google.com/) and sign up for a 
 
 &#x20;Choose the following settings for your VM CPU and memory specifications.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Under the "Boot Disk" settings, click on "Change".
 
